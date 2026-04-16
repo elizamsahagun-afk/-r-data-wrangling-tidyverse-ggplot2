@@ -1,2 +1,2 @@
 # -r-data-wrangling-tidyverse-ggplot2
-Foundations of statistical analysis and data science in R. Applications of Tidyverse and ggplot2 to probability theory as a building block for computational biology.
+"This repository serves as a portfolio of my statistical work in R. While the datasets are general, the methodologies—specifically data wrangling with dplyr and complex visualization with ggplot2—form the analytical core of my transition into Bioinformatics and Computational Biology."
